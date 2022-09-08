@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CrunePDF": {
+      "commandName": "Project",
+      "commandLineArgs": "--language ja %UserProfile%\\Desktop\\20220816 --raito-threshold 1.6"
+    }
+  }
+}
